@@ -7,6 +7,15 @@
 
 <img src="https://github.com/GezerGoktug/ShoesSiteHero/assets/146975286/12b9bdc0-33c8-408f-ab17-ef5f438e8610" width="800">
 
+# Deploying
+
+**<p>You can access the project live below.</p>**
+
+<a href="https://shoes-site-hero.netlify.app/">https://shoes-site-hero.netlify.app/</a>  
+<br>
+<br>
+<br>
+  
 
 ## SETUP
 
